@@ -13,10 +13,10 @@ The objective of this challenge was to become more familiar with HTML tags and s
 
 ## Summary
 
-###Mars News 
+-Mars News 
 I used a Mars news website. I used Splinter for web navigation and BeautifulSoup for parsing HTML to extract news titles and preview texts. I identified the correct HTML elements for scraping and stored the results in a Python list of dictionaries.
 
-###Mars Weather
+-Mars Weather
 Again, I used Splinter for web navigation and BeautifulSoup for parsing HTML to extract data. 
 
 Temperature analysis: I identified the average minimum temperature for each Martian month, and the coldest and hottest months based on this data.
